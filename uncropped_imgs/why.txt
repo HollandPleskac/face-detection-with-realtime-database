@@ -1,0 +1,3 @@
+cropped images manually in windows Photo's app to 700x700
+
+would need to crop images using code otherwise
